@@ -1,4 +1,3 @@
-# Detecteur de mouvement avec Arduino
+# systeme de surveillance connecté avec Arduino et Android
 
-C'est un systeme de surveillance connecté qui permet de detecté les intrius devant une porte et d'envoyé une
-alerte avec une photo au proprietaire de la maison via une application android
+C'est un systeme qui permet de detecté les intrius devant une porte et d'envoyé une alerte avec une photo au proprietaire de la maison via une application android
