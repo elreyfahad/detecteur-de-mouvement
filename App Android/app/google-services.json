@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "373359194327",
+    "firebase_url": "https://projetarduino-5e8b7.firebaseio.com",
+    "project_id": "projetarduino-5e8b7",
+    "storage_bucket": "projetarduino-5e8b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373359194327:android:1d7826c93da310bf",
+        "android_client_info": {
+          "package_name": "km.abdere.fahad.projetarduino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373359194327-09tgu46clem7f0c7i9ago4ad2f2ij0fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "km.abdere.fahad.projetarduino",
+            "certificate_hash": "37aff1c5186ccbc724b7ef28c1224a6b89327f32"
+          }
+        },
+        {
+          "client_id": "373359194327-afb78haulbrugkgos7bu2mm50fa529fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaOrkd8WATjBop5grbbP-t_bUaTbs156w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373359194327-afb78haulbrugkgos7bu2mm50fa529fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

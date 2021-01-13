@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="#87CEEB"
+        android:orientation="vertical"
+        android:layout_alignParentLeft="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#ffffff"
+            >
+
+            <!--<Button-->
+            <!--android:id="@+id/btnLISTEN"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="listen" />-->
+
+            <Button
+                android:id="@+id/btnLIST"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="devices" />
+
+            <TextView
+                android:id="@+id/tvSTATUS"
+                android:layout_width="100dp"
+                android:layout_height="36dp"
+                android:layout_marginLeft="50dp"
+                android:gravity="center"
+                android:hint="status" />
+
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/lv1"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"></ListView>
+
+
+
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>
